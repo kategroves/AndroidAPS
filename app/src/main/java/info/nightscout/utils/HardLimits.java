@@ -18,7 +18,7 @@ public class HardLimits {
     final static int ADULT = 2;
     final static int RESISTANTADULT = 3;
 
-    final static double[] MAXBOLUS = {5d, 10d, 17d, 25d};
+    final static double[] MAXBOLUS = {7d, 10d, 17d, 25d};
 
     // Very Hard Limits Ranges
     // First value is the Lowest and second value is the Highest a Limit can define
